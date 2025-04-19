@@ -6,7 +6,7 @@ The dataset for this modeling experiment is the IMDB Large Movie Review Dataset,
 
 It contains 50,000 movie reviews labeled as either positive or negative sentiment, evenly balanced.
 
-Modeling Approach
+Modeling Approach :
 The goal of this project is to explore fine-tuning a pre-trained transformer model specifically BERT for binary sentiment classification.  
 
 My workflow will include:
