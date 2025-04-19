@@ -16,6 +16,6 @@ My workflow will include:
 - Evaluating model performance (accuracy, F1 score, and confusion matrix)
 - Comparing with a TF-IDF + Logistic Regression baseline
 
-The final notebook will be organized with comments, visuals, and explanations to make the process clear for other students.
+The final notebook will be organized with comments, visuals, and explanations.
 
 The full project will be developed in a Jupyter notebook format within this repository.
